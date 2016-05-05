@@ -1,0 +1,12 @@
+{
+    "name": "TestProject",
+    "version": "0.1.0",
+    "description": "Test Project",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.7.2",
+        "mongodb": "~2.1.3"
+    },
+    "author": "Vivian Chi",
+    "license": "0BSD"
+}
